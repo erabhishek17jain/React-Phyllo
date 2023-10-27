@@ -1,0 +1,30 @@
+* {
+  margin: 2px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+td{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+tr{
+  height: 30px;
+}
+
+th{
+  text-align: center;
+}
+
+img{
+  height:8%;
+  width:8%;
+  border-radius: 20px;
+}
